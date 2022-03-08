@@ -2,7 +2,7 @@
 ## Author: Kirsty Hawke
 
 ### Purpose:
-Using Pushshift's API, posts from r/science and r/worldnews will be used to train a classifier on which subreddit a given post came from. This binary classification problem aims to illuminate the difference in general news reporting and scientific reporting. The past few years have highlighted the need for unbiased, clear journalism that does sensationalise stories for clickbait. We are all affected by what we read and irresponsible reporting can deepen divisions between people. Success for this project will be a +85% accuracy at classsifying posts correctly.
+Using Pushshift's API, posts from r/science and r/worldnews will be used to train a classifier on which subreddit a given post came from. This binary classification problem aims to illuminate the difference in general news reporting and scientific reporting. The past few years have highlighted the need for unbiased, clear journalism that does not sensationalize stories for clickbait. We are all affected by what we read and irresponsible reporting can deepen divisions between people. Success for this project will be a +85% accuracy at classsifying posts correctly.
 
 Additionally, this will be an interesting way to analyze the different community members of each subreddit and how they communicate or respond to articles. Both subreddits post links and not the full articles.
 

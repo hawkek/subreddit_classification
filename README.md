@@ -18,8 +18,8 @@ https://journalofethics.ama-assn.org/article/media-miss-key-points-scientific-re
 
 ### Contents
 
-- A Jupyter Notebook with analysis (https://git.generalassemb.ly/kirstyh/subreddit_classification/blob/master/subreddit_analysis.ipynb)
-- An executive summary of the results in a pdf presentation (https://git.generalassemb.ly/kirstyh/subreddit_classification/blob/master/Subreddit_Classification_Model_Pres.pdf)
+- A Jupyter Notebook with analysis (https://github.com/hawkek/subreddit_news_classification/blob/main/subreddit_analysis.ipynb)
+- An executive summary of the results in a pdf presentation (https://github.com/hawkek/subreddit_news_classification/blob/main/Subreddit_Classification_Model_Pres.pdf)
 
 ### Analysis:
 
